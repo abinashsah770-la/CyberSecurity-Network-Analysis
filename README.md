@@ -6,7 +6,7 @@ This project demonstrates the identification, exploitation, analysis, and mitiga
 
 The project follows ethical hacking principles and the Penetration Testing Execution Standard (PTES), using industry-standard security tools to assess web application security and evaluate defensive mechanisms.
 
-## 🎯 Objectives
+##  Objectives
 - Understand SQL Injection and other injection vulnerabilities.
 - Demonstrate authentication bypass using injection payloads.
 - Perform manual and automated security testing.
@@ -14,7 +14,7 @@ The project follows ethical hacking principles and the Penetration Testing Execu
 - Implement practical mitigation techniques.
 - Evaluate the effectiveness of modern web application security controls.
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 - OWASP Juice Shop
 - Kali Linux
 - Docker
@@ -26,7 +26,7 @@ The project follows ethical hacking principles and the Penetration Testing Execu
 - Python
 - Flask (Web Application Firewall)
 
-## 🔍 Key Features
+## Key Features
 - SQL Injection authentication bypass demonstration
 - Manual API security testing
 - Automated vulnerability assessment using sqlmap
@@ -36,7 +36,7 @@ The project follows ethical hacking principles and the Penetration Testing Execu
 - Custom Python Flask Web Application Firewall (WAF)
 - Security evaluation based on OWASP Top 10
 
-## 🛡 Mitigation Techniques
+## Mitigation Techniques
 - Parameterized Queries (Prepared Statements)
 - Input Validation & Sanitization
 - Web Application Firewall (WAF)
@@ -45,7 +45,7 @@ The project follows ethical hacking principles and the Penetration Testing Execu
 - Proper Error Handling
 - Continuous Security Testing & Monitoring
 
-## 📊 Project Workflow
+## Project Workflow
 1. Laboratory Environment Setup
 2. Reconnaissance & Target Identification
 3. Baseline Authentication Testing
@@ -59,7 +59,7 @@ The project follows ethical hacking principles and the Penetration Testing Execu
 11. WAF Implementation
 12. Security Evaluation & Mitigation
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Web Application Security
 - SQL Injection Testing
 - API Security
@@ -69,9 +69,6 @@ The project follows ethical hacking principles and the Penetration Testing Execu
 - Ethical Hacking
 - Vulnerability Assessment
 
-## ⚠ Disclaimer
-This project was developed strictly for educational and ethical cybersecurity research purposes. All testing was performed in a controlled lab environment using the intentionally vulnerable OWASP Juice Shop application. Do not use these techniques against systems without explicit authorization.
-
-## 👨‍💻 Author
+## Author
 **Abinash Kumar Sah**
 Cybersecurity & Networking Student
